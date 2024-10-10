@@ -5,5 +5,4 @@ class Solution:
         for i in range(k,len(nums)):
             avge=avge+nums[i]-nums[i-k]
             a=max(a,avge)
-            print("else",a)
         return a/k
