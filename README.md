@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/kirankumarreddii/leetcode/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/kirankumarreddii/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Two Pointers
 |  |
 | ------- |
