@@ -28,7 +28,7 @@ class Solution:
         first_occurance = {}
         l = len(nums)
 
-        for i in range(0, l):
+        for i in range(len(nums)):
             if nums[i] not in freq:
                 freq[nums[i]] = 1
                 first_occurance[nums[i]] = i
