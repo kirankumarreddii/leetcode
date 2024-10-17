@@ -8,9 +8,7 @@ class Solution:
                 left+=1
             while nums[right]!=key:
                 right-=1
-            return right-left+1
-
-            
+            return right-left+1     
         dist={}
         for n in nums:
             if n not in dist:
@@ -23,6 +21,4 @@ class Solution:
             if val==degree:
                 fun=call(key)
                 length=min(fun,length)
-
-
         return length
