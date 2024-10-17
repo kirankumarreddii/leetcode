@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0604-design-compressed-string-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0604-design-compressed-string-iterator) |
 | [0657-robot-return-to-origin](https://github.com/kirankumarreddii/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/kirankumarreddii/leetcode/tree/master/0696-count-binary-substrings) |
 ## Hash Function
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/kirankumarreddii/leetcode/tree/master/0696-count-binary-substrings) |
 ## Binary Search Tree
 |  |
 | ------- |
