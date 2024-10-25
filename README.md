@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/kirankumarreddii/leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/kirankumarreddii/leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/kirankumarreddii/leetcode/tree/master/0817-design-hashmap) |
 ## Greedy
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/kirankumarreddii/leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/kirankumarreddii/leetcode/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/0697-degree-of-an-array) |
 | [0816-design-hashset](https://github.com/kirankumarreddii/leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/kirankumarreddii/leetcode/tree/master/0817-design-hashmap) |
 ## Sliding Window
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0604-design-compressed-string-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0604-design-compressed-string-iterator) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kirankumarreddii/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/kirankumarreddii/leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/kirankumarreddii/leetcode/tree/master/0817-design-hashmap) |
 ## Iterator
 |  |
 | ------- |
@@ -171,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/kirankumarreddii/leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/kirankumarreddii/leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
