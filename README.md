@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kirankumarreddii/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/kirankumarreddii/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kirankumarreddii/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0749-shortest-completing-word](https://github.com/kirankumarreddii/leetcode/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/kirankumarreddii/leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/kirankumarreddii/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/kirankumarreddii/leetcode/tree/master/0817-design-hashmap) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/kirankumarreddii/leetcode/tree/master/0696-count-binary-substrings) |
 | [0734-sentence-similarity](https://github.com/kirankumarreddii/leetcode/tree/master/0734-sentence-similarity) |
 | [0742-to-lower-case](https://github.com/kirankumarreddii/leetcode/tree/master/0742-to-lower-case) |
+| [0749-shortest-completing-word](https://github.com/kirankumarreddii/leetcode/tree/master/0749-shortest-completing-word) |
 ## Hash Function
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/0697-degree-of-an-array) |
 | [0734-sentence-similarity](https://github.com/kirankumarreddii/leetcode/tree/master/0734-sentence-similarity) |
+| [0749-shortest-completing-word](https://github.com/kirankumarreddii/leetcode/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/kirankumarreddii/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/kirankumarreddii/leetcode/tree/master/0817-design-hashmap) |
 ## Sliding Window
