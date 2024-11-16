@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0734-sentence-similarity](https://github.com/kirankumarreddii/leetcode/tree/master/0734-sentence-similarity) |
 | [0742-to-lower-case](https://github.com/kirankumarreddii/leetcode/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/kirankumarreddii/leetcode/tree/master/0749-shortest-completing-word) |
+| [0782-jewels-and-stones](https://github.com/kirankumarreddii/leetcode/tree/master/0782-jewels-and-stones) |
 ## Hash Function
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0734-sentence-similarity](https://github.com/kirankumarreddii/leetcode/tree/master/0734-sentence-similarity) |
 | [0749-shortest-completing-word](https://github.com/kirankumarreddii/leetcode/tree/master/0749-shortest-completing-word) |
 | [0762-find-anagram-mappings](https://github.com/kirankumarreddii/leetcode/tree/master/0762-find-anagram-mappings) |
+| [0782-jewels-and-stones](https://github.com/kirankumarreddii/leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/kirankumarreddii/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/kirankumarreddii/leetcode/tree/master/0817-design-hashmap) |
 ## Sliding Window
