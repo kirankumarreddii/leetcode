@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/kirankumarreddii/leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/kirankumarreddii/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/kirankumarreddii/leetcode/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/kirankumarreddii/leetcode/tree/master/0822-unique-morse-code-words) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/kirankumarreddii/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/kirankumarreddii/leetcode/tree/master/0812-rotate-string) |
 | [0818-similar-rgb-color](https://github.com/kirankumarreddii/leetcode/tree/master/0818-similar-rgb-color) |
+| [0822-unique-morse-code-words](https://github.com/kirankumarreddii/leetcode/tree/master/0822-unique-morse-code-words) |
 ## Hash Function
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/kirankumarreddii/leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/kirankumarreddii/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/kirankumarreddii/leetcode/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/kirankumarreddii/leetcode/tree/master/0822-unique-morse-code-words) |
 ## Sliding Window
 |  |
 | ------- |
