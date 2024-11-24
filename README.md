@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/kirankumarreddii/leetcode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/kirankumarreddii/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/kirankumarreddii/leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0830-largest-triangle-area](https://github.com/kirankumarreddii/leetcode/tree/master/0830-largest-triangle-area) |
 ## Greedy
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/kirankumarreddii/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0818-similar-rgb-color](https://github.com/kirankumarreddii/leetcode/tree/master/0818-similar-rgb-color) |
+| [0830-largest-triangle-area](https://github.com/kirankumarreddii/leetcode/tree/master/0830-largest-triangle-area) |
 ## Design
 |  |
 | ------- |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0818-similar-rgb-color](https://github.com/kirankumarreddii/leetcode/tree/master/0818-similar-rgb-color) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/kirankumarreddii/leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
