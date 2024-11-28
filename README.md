@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/kirankumarreddii/leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/kirankumarreddii/leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/kirankumarreddii/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/kirankumarreddii/leetcode/tree/master/0851-goat-latin) |
 ## Hash Function
 |  |
 | ------- |
