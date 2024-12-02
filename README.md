@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/kirankumarreddii/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0818-similar-rgb-color](https://github.com/kirankumarreddii/leetcode/tree/master/0818-similar-rgb-color) |
 | [0830-largest-triangle-area](https://github.com/kirankumarreddii/leetcode/tree/master/0830-largest-triangle-area) |
+| [0866-rectangle-overlap](https://github.com/kirankumarreddii/leetcode/tree/master/0866-rectangle-overlap) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Design
 |  |
@@ -251,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/kirankumarreddii/leetcode/tree/master/0830-largest-triangle-area) |
+| [0866-rectangle-overlap](https://github.com/kirankumarreddii/leetcode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
