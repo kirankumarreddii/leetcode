@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kirankumarreddii/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kirankumarreddii/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kirankumarreddii/leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/kirankumarreddii/leetcode/tree/master/0031-next-permutation) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kirankumarreddii/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kirankumarreddii/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kirankumarreddii/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/kirankumarreddii/leetcode/tree/master/0031-next-permutation) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/kirankumarreddii/leetcode/tree/master/0696-count-binary-substrings) |
