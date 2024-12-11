@@ -24,7 +24,7 @@ class Solution:
             return right
         left=binaryl(nums,target)
         right=binaryr(nums,target)
-        if 0<=left and left<len(nums) and left<=right and nums[left]==target:
+        if left<=right:
 
             return [left,right]
         return res
