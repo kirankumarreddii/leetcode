@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kirankumarreddii/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kirankumarreddii/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kirankumarreddii/leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/kirankumarreddii/leetcode/tree/master/0038-count-and-say) |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kirankumarreddii/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0604-design-compressed-string-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0604-design-compressed-string-iterator) |
