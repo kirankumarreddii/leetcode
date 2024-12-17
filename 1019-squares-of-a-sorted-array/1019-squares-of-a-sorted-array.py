@@ -4,10 +4,12 @@ class Solution:
         right=len(nums)-1
         res=[]
         while left<=right:
-            if (nums[left]*nums[left])<(nums[right]*nums[right]):
-                res.insert(0,nums[right]*nums[right])
+            l=nums[left]*nums[left]
+            r=nums[right]*nums[right]
+            if l<r:
+                res.insert(0,r)
                 right-=1
             else:
-                res.insert(0,nums[left]*nums[left])
+                res.insert(0,l)
                 left+=1
         return res
