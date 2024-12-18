@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kirankumarreddii/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/kirankumarreddii/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankumarreddii/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/kirankumarreddii/leetcode/tree/master/0200-number-of-islands) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kirankumarreddii/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/kirankumarreddii/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/kirankumarreddii/leetcode/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kirankumarreddii/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/kirankumarreddii/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/kirankumarreddii/leetcode/tree/master/0048-rotate-image) |
 | [0598-range-addition-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0728-self-dividing-numbers) |
