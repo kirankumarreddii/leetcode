@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kirankumarreddii/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/kirankumarreddii/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/kirankumarreddii/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankumarreddii/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/kirankumarreddii/leetcode/tree/master/0200-number-of-islands) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kirankumarreddii/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kirankumarreddii/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kirankumarreddii/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/kirankumarreddii/leetcode/tree/master/0049-group-anagrams) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kirankumarreddii/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/kirankumarreddii/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/kirankumarreddii/leetcode/tree/master/0049-group-anagrams) |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kirankumarreddii/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0604-design-compressed-string-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0604-design-compressed-string-iterator) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kirankumarreddii/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kirankumarreddii/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/kirankumarreddii/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/kirankumarreddii/leetcode/tree/master/0049-group-anagrams) |
 | [0594-longest-harmonious-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kirankumarreddii/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/kirankumarreddii/leetcode/tree/master/0645-set-mismatch) |
