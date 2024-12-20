@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kirankumarreddii/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/kirankumarreddii/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/kirankumarreddii/leetcode/tree/master/0050-powx-n) |
 | [0598-range-addition-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kirankumarreddii/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/kirankumarreddii/leetcode/tree/master/0050-powx-n) |
 ## Union Find
 |  |
 | ------- |
