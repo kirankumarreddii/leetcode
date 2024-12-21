@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kirankumarreddii/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kirankumarreddii/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kirankumarreddii/leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankumarreddii/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/kirankumarreddii/leetcode/tree/master/0200-number-of-islands) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kirankumarreddii/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/kirankumarreddii/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/kirankumarreddii/leetcode/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/kirankumarreddii/leetcode/tree/master/0661-image-smoother) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/kirankumarreddii/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/kirankumarreddii/leetcode/tree/master/0682-baseball-game) |
