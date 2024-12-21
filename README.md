@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kirankumarreddii/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kirankumarreddii/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/kirankumarreddii/leetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/kirankumarreddii/leetcode/tree/master/0061-rotate-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/kirankumarreddii/leetcode/tree/master/0696-count-binary-substrings) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kirankumarreddii/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/kirankumarreddii/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/kirankumarreddii/leetcode/tree/master/0061-rotate-list) |
 | [0816-design-hashset](https://github.com/kirankumarreddii/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/kirankumarreddii/leetcode/tree/master/0817-design-hashmap) |
 ## Prefix Sum
