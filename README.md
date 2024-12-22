@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/kirankumarreddii/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kirankumarreddii/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/kirankumarreddii/leetcode/tree/master/0062-unique-paths) |
 | [0598-range-addition-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kirankumarreddii/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kirankumarreddii/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/kirankumarreddii/leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankumarreddii/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/kirankumarreddii/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/kirankumarreddii/leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -375,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kirankumarreddii/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kirankumarreddii/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
