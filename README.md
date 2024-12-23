@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/kirankumarreddii/leetcode/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kirankumarreddii/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/kirankumarreddii/leetcode/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/kirankumarreddii/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/kirankumarreddii/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/kirankumarreddii/leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/kirankumarreddii/leetcode/tree/master/0071-simplify-path) |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kirankumarreddii/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0604-design-compressed-string-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0604-design-compressed-string-iterator) |
