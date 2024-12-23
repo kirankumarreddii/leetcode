@@ -6,8 +6,9 @@ class Solution:
         for p in path.split("/"):
             if p != "" and p != "." and p!="..":
                 stack.append(p)
-            if p ==".." and len(stack)>0:
+            elif p ==".." and stack:
                 stack.pop()
+
         return "/"+"/".join(stack)
 
 
