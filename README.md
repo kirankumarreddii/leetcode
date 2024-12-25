@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kirankumarreddii/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kirankumarreddii/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kirankumarreddii/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankumarreddii/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/kirankumarreddii/leetcode/tree/master/0200-number-of-islands) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kirankumarreddii/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kirankumarreddii/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kirankumarreddii/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kirankumarreddii/leetcode/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/kirankumarreddii/leetcode/tree/master/0661-image-smoother) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kirankumarreddii/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/kirankumarreddii/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/kirankumarreddii/leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/kirankumarreddii/leetcode/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kirankumarreddii/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0604-design-compressed-string-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0604-design-compressed-string-iterator) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/kirankumarreddii/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kirankumarreddii/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kirankumarreddii/leetcode/tree/master/0079-word-search) |
 ## Recursion
 |  |
 | ------- |
