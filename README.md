@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kirankumarreddii/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kirankumarreddii/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kirankumarreddii/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/kirankumarreddii/leetcode/tree/master/0200-number-of-islands) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kirankumarreddii/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kirankumarreddii/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kirankumarreddii/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
