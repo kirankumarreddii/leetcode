@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kirankumarreddii/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kirankumarreddii/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kirankumarreddii/leetcode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/kirankumarreddii/leetcode/tree/master/0089-gray-code) |
 | [0598-range-addition-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kirankumarreddii/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/kirankumarreddii/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/kirankumarreddii/leetcode/tree/master/0089-gray-code) |
 | [0645-set-mismatch](https://github.com/kirankumarreddii/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kirankumarreddii/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/kirankumarreddii/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/kirankumarreddii/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kirankumarreddii/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kirankumarreddii/leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/kirankumarreddii/leetcode/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
