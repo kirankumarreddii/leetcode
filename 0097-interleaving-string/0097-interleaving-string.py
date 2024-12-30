@@ -25,15 +25,13 @@ class Solution:
         dp = [[False] * (s1_len + 1) for _ in range(s2_len + 1)]
         dp[0][0] = True  # Base case: both s1 and s2 are empty, s3 should be empty too.
         
-        # Initialize first row: only possible if characters of s1 match s3.
-        for i in range(1, s1_len + 1):
-            if s1[i - 1] == s3[i - 1]:
-                dp[0][i] = dp[0][i - 1]
+        for i in range(1,s1_len+1):
+            if s1[i-1]==s3[i-1] and dp[0][i-1]:
+                dp[0][i]=True
         
-        # Initialize first column: only possible if characters of s2 match s3.
-        for j in range(1, s2_len + 1):
-            if s2[j - 1] == s3[j - 1]:
-                dp[j][0] = dp[j - 1][0]
+        for j in range(1,s2_len+1):
+            if s2[j-1]==s3[j-1] and dp[j-1][0]:
+                dp[j][0]=True
         
         # Fill the dp table for the rest of the cases.
         for i in range(1, s1_len + 1):
