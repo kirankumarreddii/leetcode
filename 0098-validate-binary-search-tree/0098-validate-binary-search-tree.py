@@ -8,14 +8,24 @@ class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         if not root:
             return True
-        queue=deque([(root,float('-inf'),float('inf'))])
-        while queue:
-            node,lower,upper=queue.popleft()
+        # queue=deque([(root,float('-inf'),float('inf'))])
+        # while queue:
+        #     node,lower,upper=queue.popleft()
 
+        #     if not(lower<node.val<upper):
+        #         return False
+        #     if node.left:
+        #         queue.append([node.left,lower,node.val])
+        #     if node.right:
+        #         queue.append([node.right,node.val,upper])
+        # return True
+        def track(node,lower,upper):
+            if not node:
+                return True
             if not(lower<node.val<upper):
                 return False
-            if node.left:
-                queue.append([node.left,lower,node.val])
-            if node.right:
-                queue.append([node.right,node.val,upper])
-        return True
+            return track(node.left,lower,node.val) and track(node.right,node.val,upper)
+        return track(root,float('-inf'),float('inf'))
+        
+
+    
