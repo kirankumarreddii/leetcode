@@ -28,18 +28,27 @@ class Solution:
         #     root=root.right
         # return root
 
-        node = root
+        if not root:
+            return
 
-        while node:
+        # Initialize a stack to store nodes
+        stack = [root]
+        prev = None
 
-            if node.left:
-                rightmost = node.left
+        while stack:
+            # Pop the current node from the stack
+            curr = stack.pop()
 
-                while rightmost.right:
-                    rightmost = rightmost.right
+            # Connect the previous node to the current node
+            if prev:
+                prev.left = None
+                prev.right = curr
 
-                rightmost.right = node.right
-                node.right = node.left
-                node.left = None
+            # Push the right and left children of the current node onto the stack
+            if curr.right:
+                stack.append(curr.right)
+            if curr.left:
+                stack.append(curr.left)
 
-            node = node.right
+            # Update the previous node
+            prev = curr
