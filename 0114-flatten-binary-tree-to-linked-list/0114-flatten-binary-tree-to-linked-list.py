@@ -28,21 +28,18 @@ class Solution:
         #     root=root.right
         # return root
 
-        if not root or (not root.left and not root.right):
-            return root
-        
-        newLeft = self.flatten(root.left)
-        newRight = self.flatten(root.right)
+        node = root
 
-        curr = newLeft
-        if not curr:
-            return root
-        
-        while curr.right:
-            curr = curr.right
-        
-        curr.right = newRight
-        root.left = None
-        root.right = newLeft
+        while node:
 
-        return root
+            if node.left:
+                rightmost = node.left
+
+                while rightmost.right:
+                    rightmost = rightmost.right
+
+                rightmost.right = node.right
+                node.right = node.left
+                node.left = None
+
+            node = node.right
