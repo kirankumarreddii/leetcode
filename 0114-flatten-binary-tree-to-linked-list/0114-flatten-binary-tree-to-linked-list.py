@@ -36,19 +36,14 @@ class Solution:
         prev = None
 
         while stack:
-            # Pop the current node from the stack
-            curr = stack.pop()
+            node=stack.pop()
 
-            # Connect the previous node to the current node
             if prev:
-                prev.left = None
-                prev.right = curr
-
-            # Push the right and left children of the current node onto the stack
-            if curr.right:
-                stack.append(curr.right)
-            if curr.left:
-                stack.append(curr.left)
-
-            # Update the previous node
-            prev = curr
+                prev.left=None
+                prev.right=node
+            if node.right:
+                stack.append(node.right)
+            if node.left:
+                stack.append(node.left)
+            
+            prev=node
