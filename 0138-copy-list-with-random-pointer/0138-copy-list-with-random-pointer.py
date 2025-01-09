@@ -29,7 +29,8 @@ class Solution:
             cur.next=clone.next
             cur=cur.next
             if clone.next:
-                clone.next=cur.next
+                # clone.next=clone.next.next
+                clone.next=clone.next.next
         return clone_head
         
 
