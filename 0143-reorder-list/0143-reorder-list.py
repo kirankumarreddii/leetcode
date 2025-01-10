@@ -27,4 +27,3 @@ class Solution:
             second.next=temp1
             first=temp1  # first=second.next
             second=temp2
-        return head
