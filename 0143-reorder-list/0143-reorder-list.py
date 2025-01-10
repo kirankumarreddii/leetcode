@@ -12,7 +12,8 @@ class Solution:
         while fast and fast.next:
             slow=slow.next
             fast=fast.next.next
-        cur=slow
+        cur=slow.next
+        slow.next=None
         prev=None
         while cur:
             temp=cur.next
@@ -20,7 +21,7 @@ class Solution:
             prev=cur
             cur=temp
         first,second=head,prev
-        while second.next:
+        while second:
             temp1=first.next
             temp2=second.next
             first.next=second
