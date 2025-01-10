@@ -15,13 +15,10 @@ class Solution:
         #         pos=cur
         #     cur=cur.next
         
-        visited = set()  # Use a set to store visited nodes
-        current = head
-
-        while current:
-            if current in visited:  # If the node is already in the set, a cycle is detected
-                return current  # Return the node where the cycle begins
-            visited.add(current)  # Mark the node as visited
-            current = current.next
-
-        return None  # If no cycle exists, return None
+        visited=set()
+        while head:
+            if head in visited:
+                return head
+            visited.add(head)
+            head=head.next
+        return None
