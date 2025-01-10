@@ -6,19 +6,25 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        # space o(n)
         # visited=set()
-        # cur=head
-        # while cur:
-        #     if cur not in dist:
-        #         dist[cur]=cur  
-        #     else:
-        #         pos=cur
-        #     cur=cur.next
-        
-        visited=set()
-        while head:
-            if head in visited:
-                return head
-            visited.add(head)
-            head=head.next
-        return None
+        # while head:
+        #     if head in visited:
+        #         return head
+        #     visited.add(head)
+        #     head=head.next
+        # return None
+        slow,fast=head,head
+        while fast and fast.next:
+            slow=slow.next
+            fast=fast.next.next
+            if fast==slow:
+                break
+        else:
+            return None
+        slow=head
+        while slow!=fast:
+            fast=fast.next
+            slow=slow.next
+        return slow
+            
