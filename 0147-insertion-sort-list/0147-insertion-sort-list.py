@@ -8,7 +8,7 @@ class Solution:
         dummy=ListNode(0)
         dummy.next=head
         cur=head
-        while cur.next and cur:
+        while cur.next:
             if cur.val<=cur.next.val:
                 cur=cur.next
                 continue
