@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kirankumarreddii/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kirankumarreddii/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0161-one-edit-distance](https://github.com/kirankumarreddii/leetcode/tree/master/0161-one-edit-distance) |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kirankumarreddii/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0604-design-compressed-string-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0604-design-compressed-string-iterator) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kirankumarreddii/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kirankumarreddii/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kirankumarreddii/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0161-one-edit-distance](https://github.com/kirankumarreddii/leetcode/tree/master/0161-one-edit-distance) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/kirankumarreddii/leetcode/tree/master/0696-count-binary-substrings) |
