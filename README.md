@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kirankumarreddii/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kirankumarreddii/leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/kirankumarreddii/leetcode/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirankumarreddii/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/kirankumarreddii/leetcode/tree/master/0200-number-of-islands) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kirankumarreddii/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kirankumarreddii/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0161-one-edit-distance](https://github.com/kirankumarreddii/leetcode/tree/master/0161-one-edit-distance) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirankumarreddii/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/kirankumarreddii/leetcode/tree/master/0696-count-binary-substrings) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kirankumarreddii/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kirankumarreddii/leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirankumarreddii/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kirankumarreddii/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
