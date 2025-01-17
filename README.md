@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kirankumarreddii/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kirankumarreddii/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1603-running-sum-of-1d-array](https://github.com/kirankumarreddii/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/kirankumarreddii/leetcode/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/kirankumarreddii/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
