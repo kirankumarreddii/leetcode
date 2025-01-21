@@ -40,6 +40,9 @@ class Solution:
         #         if dfs(visited,cours):
         #             return False
         # return True
+        
+        
+           
         in_adj = defaultdict(list)
         for cour, pre in prerequisites:
             in_adj[pre].append(cour)
@@ -48,9 +51,9 @@ class Solution:
         
         def dfs(visited, cours):
             if visited[cours] == 1:  # Cycle detected (course is in progress)
-                return True
+                return True  # Return True if a cycle is detected
             if visited[cours] == 2:  # Already processed, no cycle
-                return False
+                return False  # Return False if no cycle is detected
             
             # Mark the course as visiting (in progress)
             visited[cours] = 1
@@ -58,11 +61,11 @@ class Solution:
             # Visit all the prerequisites (neighbors) of the course
             for c in in_adj[cours]:  # Iterate over all courses dependent on current course
                 if dfs(visited, c):  # If a cycle is detected in the prerequisites
-                    return True
+                    return True  # Return True if a cycle is detected
             
             # Mark the course as fully processed
             visited[cours] = 2
-            return False
+            return False  # Return False if no cycle was detected in the prerequisites
         
         # Perform DFS for each course
         for cours in range(numCourses):
