@@ -8,11 +8,9 @@ class Solution:
         dist[sort_list[0]]=1
         count=1
         for i in range(1,len(arr)):
-            if sort_list[i]==sort_list[i-1]:
-                dist[sort_list[i]]=count
-            else:
+            if sort_list[i]>sort_list[i-1]:
                 count+=1
-                dist[sort_list[i]]=count
+            dist[sort_list[i]]=count
         for i in range(len(arr)):
             ranks.append(dist[arr[i]])
         return ranks
