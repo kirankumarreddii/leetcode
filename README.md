@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-positions-of-large-groups](https://github.com/kirankumarreddii/leetcode/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/kirankumarreddii/leetcode/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0889-buddy-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/kirankumarreddii/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Hash Function
 |  |
 | ------- |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/kirankumarreddii/leetcode/tree/master/0724-find-pivot-index) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/kirankumarreddii/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/kirankumarreddii/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
