@@ -15,9 +15,8 @@ class Solution:
 
             visited[i] = 1  # Mark the course as visiting (in the current DFS path)
             for neigh in dist[i]:
-                if visited[neigh] == 0:  # If the neighbor is unvisited
-                    if dfs(neigh, visited):# If a cycle is detected in the neighbor, return True
-                        return True
+                if dfs(neigh, visited):# If a cycle is detected in the neighbor, return True
+                    return True
 
             visited[i] = 2  # Mark the course as visited (processed)
             res.append(i)  # Add the course to result after processing all its prerequisites
@@ -25,9 +24,8 @@ class Solution:
 
         # Perform DFS for each course
         for i in range(numCourses):
-            if visited[i] == 0:  # If the course hasn't been visited yet
-                if dfs(i,visited):  # If a cycle is detected, return []
-                    return []
+            if dfs(i,visited):  # If a cycle is detected, return []
+                return []
 
         return res[::-1]  # Reverse the result to get the correct topological order
 
