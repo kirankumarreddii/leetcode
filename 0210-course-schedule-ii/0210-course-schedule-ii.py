@@ -10,10 +10,10 @@ class Solution:
         while queue:
             cor=queue.popleft()
             res.append(cor)
-            for i in dist[cor]:
-                course[i]-=1
-                if course[i]==0:
-                    queue.append(i)
+            for neighbour in dist[cor]:
+                course[neighbour]-=1
+                if course[neighbour]==0:
+                    queue.append(neighbour)
                     
         if len(res) == numCourses:
             return res
