@@ -50,16 +50,16 @@ class Solution:
 
         def dfs(sv,visited):
             if visited[sv]==-1:# this course had not been added into the res, but visited again; there is a cycle!
-                return False
-            if visited[sv]==1:# this course had been successfully added into the res
                 return True
+            if visited[sv]==1:# this course had been successfully added into the res
+                return False
             visited[sv]=-1 # set the current course as currently being visited
             for u in adj[sv]:
-                if not dfs(u,visited):
-                    return False # if there is a cycle detected at any point, terminate!
+                if dfs(u,visited):
+                    return True # if there is a cycle detected at any point, terminate!
             res.append(sv) # no cycle found, dfs finished, good to add the course into the res
             visited[sv]=1  # this course finished
-            return True
+            return False
         
         adj=[[] for i in range(numCourses)]
         res=[]
@@ -67,7 +67,7 @@ class Solution:
             adj[v].append(u)
         visited=[0]*numCourses
         for i in range(numCourses):
-            if not dfs(i,visited):
+            if dfs(i,visited):
                 # if False, there must be a cycle; terminate by returning an empty list
                 return []
         return res[::-1]
