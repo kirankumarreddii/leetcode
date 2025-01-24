@@ -8,29 +8,23 @@ class Solution:
         visited=[0]*numCourses
         res=[]
         def dfs(i):
-            if visited[i] == 1:
-                return True  # Cycle detected
-            if visited[i] == 2:
-                return False  # Already processed, no cycle
-
-            visited[i] = 1  # Mark the course as visiting (in the current DFS path)
+            if visited[i]==1:
+                return True
+            if visited[i]==2:
+                return False
+            visited[i]=1
             for neigh in dist[i]:
-                  # If the neighbor is unvisited
-                    if dfs(neigh):  # If a cycle is detected in the neighbor, return True
+                if dfs(neigh):
                         return True
 
-            visited[i] = 2  # Mark the course as visited (processed)
-            res.append(i)  # Add the course to result after processing all its prerequisites
+            visited[i]=2
+            res.append(i)
             return False
-
-        # Perform DFS for each course
         for i in range(numCourses):
-            
-                if dfs(i):  # If a cycle is detected, return []
+            # if visited[i]==0:
+                if dfs(i):
                     return []
-
-        return res[::-1]  # Reverse the result to get the correct topological order
-
+        return res[::-1]
         
         # queue=deque(i for i in range(numCourses) if course[i]==0)
         # res=[]
