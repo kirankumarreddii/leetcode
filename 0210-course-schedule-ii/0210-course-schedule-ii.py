@@ -7,7 +7,7 @@ class Solution:
             # course[pre]+=1
         visited=[0]*numCourses
         res=[]
-        def dfs(i,visited):
+        def dfs(i):
             if visited[i] == 1:
                 return True  # Cycle detected
             if visited[i] == 2:
@@ -15,8 +15,9 @@ class Solution:
 
             visited[i] = 1  # Mark the course as visiting (in the current DFS path)
             for neigh in dist[i]:
-                if dfs(neigh, visited):# If a cycle is detected in the neighbor, return True
-                    return True
+                  # If the neighbor is unvisited
+                    if dfs(neigh):  # If a cycle is detected in the neighbor, return True
+                        return True
 
             visited[i] = 2  # Mark the course as visited (processed)
             res.append(i)  # Add the course to result after processing all its prerequisites
@@ -24,8 +25,9 @@ class Solution:
 
         # Perform DFS for each course
         for i in range(numCourses):
-            if dfs(i,visited):  # If a cycle is detected, return []
-                return []
+            
+                if dfs(i):  # If a cycle is detected, return []
+                    return []
 
         return res[::-1]  # Reverse the result to get the correct topological order
 
@@ -44,3 +46,5 @@ class Solution:
         #     return res
         # else:
         #     return []
+
+        
