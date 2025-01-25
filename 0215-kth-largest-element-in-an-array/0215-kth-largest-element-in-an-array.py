@@ -7,6 +7,8 @@ class Solution:
         if k == 50000: return 1
         k=len(nums)-k
         def quick_select(left,right):
+            pivot_index = random.randint(left, right)
+            nums[pivot_index],nums[right]=nums[right],nums[pivot_index]
             pivot_position,pivot=left,nums[right]
 
             for i in range(left,right):
