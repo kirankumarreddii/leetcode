@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kirankumarreddii/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0156-binary-tree-upside-down](https://github.com/kirankumarreddii/leetcode/tree/master/0156-binary-tree-upside-down) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/kirankumarreddii/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kirankumarreddii/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kirankumarreddii/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/kirankumarreddii/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kirankumarreddii/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kirankumarreddii/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0156-binary-tree-upside-down](https://github.com/kirankumarreddii/leetcode/tree/master/0156-binary-tree-upside-down) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/kirankumarreddii/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kirankumarreddii/leetcode/tree/master/0617-merge-two-binary-trees) |
