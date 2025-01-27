@@ -15,7 +15,7 @@ class Solution:
                 elif sign=='*':
                     stack.append(stack.pop() * num)
                 elif sign=='/':
-                    stack.append(math.trunc(stack.pop()/num))
+                    stack.append(int(stack.pop()/num))
                 sign=char
                 num=0
         return sum(stack)
