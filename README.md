@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kirankumarreddii/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0156-binary-tree-upside-down](https://github.com/kirankumarreddii/leetcode/tree/master/0156-binary-tree-upside-down) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/kirankumarreddii/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kirankumarreddii/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kirankumarreddii/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kirankumarreddii/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/kirankumarreddii/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kirankumarreddii/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kirankumarreddii/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0156-binary-tree-upside-down](https://github.com/kirankumarreddii/leetcode/tree/master/0156-binary-tree-upside-down) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/kirankumarreddii/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kirankumarreddii/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kirankumarreddii/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kirankumarreddii/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirankumarreddii/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kirankumarreddii/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
