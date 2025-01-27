@@ -5,7 +5,6 @@ class Solution:
         stack=[]
 
         for i,char in enumerate(s):
-            print(char)
             if char.isnumeric():
                 num=10*num+int(char)
             if char in '+/*-' or i==len(s)-1:
