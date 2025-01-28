@@ -1,7 +1,7 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         i,j=0,len(matrix[0])-1
-        while  not (i<0 or j<0 or j>=len(matrix[0]) or i>=len(matrix)):
+        while  i<len(matrix) and j>=0:
             if target==matrix[i][j]:
                 return True
             elif target<matrix[i][j]:
