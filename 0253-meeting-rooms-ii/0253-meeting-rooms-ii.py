@@ -8,10 +8,10 @@ class Solution:
         while i<len(start) and j<len(end):
             if start[i]<end[j]:
                 count+=1
-                max_rooms = max(max_rooms, count)
+                
                 i+=1
-            
             else:
                 count-=1
                 j+=1
+            max_rooms = max(max_rooms, count)
         return max_rooms
