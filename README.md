@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/kirankumarreddii/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/kirankumarreddii/leetcode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0279-perfect-squares](https://github.com/kirankumarreddii/leetcode/tree/master/0279-perfect-squares) |
 | [0598-range-addition-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kirankumarreddii/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kirankumarreddii/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/kirankumarreddii/leetcode/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/kirankumarreddii/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kirankumarreddii/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kirankumarreddii/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kirankumarreddii/leetcode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/kirankumarreddii/leetcode/tree/master/0279-perfect-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/kirankumarreddii/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/kirankumarreddii/leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Enumeration
