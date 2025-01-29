@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kirankumarreddii/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0251-flatten-2d-vector](https://github.com/kirankumarreddii/leetcode/tree/master/0251-flatten-2d-vector) |
+| [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kirankumarreddii/leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/kirankumarreddii/leetcode/tree/master/0179-largest-number) |
+| [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/kirankumarreddii/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/kirankumarreddii/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0161-one-edit-distance](https://github.com/kirankumarreddii/leetcode/tree/master/0161-one-edit-distance) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirankumarreddii/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0251-flatten-2d-vector](https://github.com/kirankumarreddii/leetcode/tree/master/0251-flatten-2d-vector) |
+| [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/kirankumarreddii/leetcode/tree/master/0696-count-binary-substrings) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kirankumarreddii/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kirankumarreddii/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Data Stream
@@ -532,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kirankumarreddii/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0724-find-pivot-index](https://github.com/kirankumarreddii/leetcode/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kirankumarreddii/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/kirankumarreddii/leetcode/tree/master/1603-running-sum-of-1d-array) |
