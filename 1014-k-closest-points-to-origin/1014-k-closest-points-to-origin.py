@@ -1,10 +1,8 @@
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
-        def area(x1,y1):
-            return x1**2 + y1**2
         heap=[]
         for x,y in points:
-            dist=area(x,y)
+            dist=x**2 + y**2
 
             if len(heap)<k:
                 heapq.heappush(heap,(-dist,[x,y]))
