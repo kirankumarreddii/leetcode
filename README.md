@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/kirankumarreddii/leetcode/tree/master/0866-rectangle-overlap) |
 | [1014-k-closest-points-to-origin](https://github.com/kirankumarreddii/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2383-add-two-integers](https://github.com/kirankumarreddii/leetcode/tree/master/2383-add-two-integers) |
 ## Design
 |  |
 | ------- |
