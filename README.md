@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kirankumarreddii/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/kirankumarreddii/leetcode/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/kirankumarreddii/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0287-find-the-duplicate-number](https://github.com/kirankumarreddii/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kirankumarreddii/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kirankumarreddii/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kirankumarreddii/leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/kirankumarreddii/leetcode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/kirankumarreddii/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/kirankumarreddii/leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Enumeration
