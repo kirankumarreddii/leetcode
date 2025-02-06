@@ -111,56 +111,17 @@
 #                 right -= 1
 #             else:
 #                 mid += 1
-from typing import List
-import random
-
 class Solution:
     def wiggleSort(self, nums: List[int]) -> None:
-        n = len(nums)
+        sorted_nums = sorted(nums)
+        mid=(len(nums)+1)//2
+        j,k=mid-1,len(nums)-1
 
-        # Partition function for QuickSelect
-        def partition(nums, left, right, pivot_index):
-            pivot_value = nums[pivot_index]
-            nums[pivot_index], nums[right] = nums[right], nums[pivot_index]  # Move pivot to end
-            store_index = left
-            for i in range(left, right):
-                if nums[i] < pivot_value:
-                    nums[i], nums[store_index] = nums[store_index], nums[i]
-                    store_index += 1
-            nums[store_index], nums[right] = nums[right], nums[store_index]  # Move pivot to final place
-            return store_index
-
-        # QuickSelect function to find the median
-        def quickselect(nums, left, right, k):
-            if left == right:
-                return nums[left]
-
-            pivot_index = random.randint(left, right)
-            pivot_index = partition(nums, left, right, pivot_index)
-
-            if k == pivot_index:
-                return nums[k]
-            elif k < pivot_index:
-                return quickselect(nums, left, pivot_index - 1, k)
+        for i in range(len(nums)):
+            if i%2==0:
+                nums[i]=sorted_nums[j]
+                j-=1
             else:
-                return quickselect(nums, pivot_index + 1, right, k)
-
-        # Step 1: Find the median
-        median = quickselect(nums, 0, n - 1, n // 2)
-
-        # Step 2: Define Index Mapping
-        def index(i):
-            return (2 * i + 1) % (n | 1)
-
-        # Step 3: Three-way partitioning
-        left, mid, right = 0, 0, n - 1
-        while mid <= right:
-            if nums[index(mid)] > median:
-                nums[index(left)], nums[index(mid)] = nums[index(mid)], nums[index(left)]
-                left += 1
-                mid += 1
-            elif nums[index(mid)] < median:
-                nums[index(right)], nums[index(mid)] = nums[index(mid)], nums[index(right)]
-                right -= 1
-            else:
-                mid += 1
+                nums[i]=sorted_nums[k]
+                k-=1
+        
