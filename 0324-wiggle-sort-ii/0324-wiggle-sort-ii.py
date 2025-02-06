@@ -23,6 +23,7 @@ class Solution:
             for i in range(left,right):
                 if nums[i]<pivot:
                     nums[i],nums[store]=nums[store],nums[i]
+                    store+=1
             
             nums[store],nums[right]=nums[right],nums[store]
             return store
