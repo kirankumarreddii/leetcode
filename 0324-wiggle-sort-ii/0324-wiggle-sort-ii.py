@@ -36,7 +36,7 @@ class Solution:
             pivot_index = random.randint(left, right)
             partition_index=partition(nums,left,right,pivot_index)
             if partition_index == k:
-                return nums[partition_index]
+                return nums[k]
             elif partition_index < k:
                 return quickselect(nums, partition_index + 1, right, k)
             else:
