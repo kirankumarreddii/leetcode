@@ -111,17 +111,52 @@
 #                 right -= 1
 #             else:
 #                 mid += 1
+from typing import List
+import random
+
 class Solution:
     def wiggleSort(self, nums: List[int]) -> None:
-        sorted_nums = sorted(nums)
-        mid=(len(nums)+1)//2
-        j,k=mid-1,len(nums)-1
+        n = len(nums)
 
-        for i in range(len(nums)):
-            if i%2==0:
-                nums[i]=sorted_nums[j]
-                j-=1
+        # Step 1: QuickSelect to find the median
+        def partition(nums, left, right, pivot_index):
+            pivot_value = nums[pivot_index]
+            nums[pivot_index], nums[right] = nums[right], nums[pivot_index]  # Move pivot to end
+            store_index = left
+            for i in range(left, right):
+                if nums[i] < pivot_value:
+                    nums[i], nums[store_index] = nums[store_index], nums[i]
+                    store_index += 1
+            nums[store_index], nums[right] = nums[right], nums[store_index]  # Move pivot to final place
+            return store_index
+
+        def quickselect(nums, left, right, k):
+            if left == right:
+                return nums[left]
+            pivot_index = random.randint(left, right)
+            pivot_index = partition(nums, left, right, pivot_index)
+            if k == pivot_index:
+                return nums[k]
+            elif k < pivot_index:
+                return quickselect(nums, left, pivot_index - 1, k)
             else:
-                nums[i]=sorted_nums[k]
-                k-=1
-        
+                return quickselect(nums, pivot_index + 1, right, k)
+
+        median = quickselect(nums, 0, n - 1, n // 2)
+
+        # Step 2: Index Mapping Function (to ensure wiggle sort)
+        def index(i):
+            return (2 * i + 1) % (n | 1)  # Odd indexes first, then even
+
+        # Step 3: Three-Way Partitioning (Dutch National Flag Algorithm)
+        left, mid, right = 0, 0, n - 1
+        while mid <= right:
+            if nums[index(mid)] > median:
+                nums[index(left)], nums[index(mid)] = nums[index(mid)], nums[index(left)]
+                left += 1
+                mid += 1
+            elif nums[index(mid)] < median:
+                nums[index(right)], nums[index(mid)] = nums[index(mid)], nums[index(right)]
+                right -= 1
+            else:
+                mid += 1
