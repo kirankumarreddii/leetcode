@@ -8,7 +8,7 @@ class Solution:
             while len(dist)>k:
                 dist[s[start]]-=1
                 if dist[s[start]]==0:
-                    dist.pop(s[start])
+                    del dist[s[start]]
                 start+=1
             max_len=max(max_len,i+1-start)
         return max_len
