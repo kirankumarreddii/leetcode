@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/kirankumarreddii/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/kirankumarreddii/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/kirankumarreddii/leetcode/tree/master/0289-game-of-life) |
 | [0308-range-sum-query-2d-mutable](https://github.com/kirankumarreddii/leetcode/tree/master/0308-range-sum-query-2d-mutable) |
+| [0348-design-tic-tac-toe](https://github.com/kirankumarreddii/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0566-reshape-the-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/kirankumarreddii/leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/kirankumarreddii/leetcode/tree/master/0733-flood-fill) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/kirankumarreddii/leetcode/tree/master/0289-game-of-life) |
+| [0348-design-tic-tac-toe](https://github.com/kirankumarreddii/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0566-reshape-the-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/kirankumarreddii/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/kirankumarreddii/leetcode/tree/master/0682-baseball-game) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/kirankumarreddii/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/kirankumarreddii/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0594-longest-harmonious-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kirankumarreddii/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/kirankumarreddii/leetcode/tree/master/0645-set-mismatch) |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0251-flatten-2d-vector](https://github.com/kirankumarreddii/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0308-range-sum-query-2d-mutable](https://github.com/kirankumarreddii/leetcode/tree/master/0308-range-sum-query-2d-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0348-design-tic-tac-toe](https://github.com/kirankumarreddii/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0604-design-compressed-string-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0604-design-compressed-string-iterator) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kirankumarreddii/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/kirankumarreddii/leetcode/tree/master/0816-design-hashset) |
