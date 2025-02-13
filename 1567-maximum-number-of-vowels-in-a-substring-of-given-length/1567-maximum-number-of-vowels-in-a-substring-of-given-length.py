@@ -6,7 +6,7 @@ class Solution:
         for i in range(k):
             if s[i] in vowels:
                 count+=1
-            max_lenth=max(max_lenth,count)
+        max_lenth=count
         for i in range(k,len(s)):
             if s[i] in vowels:
                 count+=1
