@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/kirankumarreddii/leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1256-rank-transform-of-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/kirankumarreddii/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kirankumarreddii/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kirankumarreddii/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kirankumarreddii/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/kirankumarreddii/leetcode/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0889-buddy-strings) |
 | [1256-rank-transform-of-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/kirankumarreddii/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kirankumarreddii/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kirankumarreddii/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
