@@ -4,7 +4,4 @@ class Solution:
         for num in arr:
             if num in arr:
                 hashing[num]+=1
-            else:
-                hashing[num]=1
-        lst=[i for i in hashing.values()]
-        return True if len(lst)==len(set(lst)) else False
+        return True if len(hashing.values())==len(set(hashing.values())) else False
