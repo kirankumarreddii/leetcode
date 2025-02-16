@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kirankumarreddii/leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0394-decode-string](https://github.com/kirankumarreddii/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/kirankumarreddii/leetcode/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/kirankumarreddii/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kirankumarreddii/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0392-is-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/kirankumarreddii/leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0443-string-compression](https://github.com/kirankumarreddii/leetcode/tree/master/0443-string-compression) |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/kirankumarreddii/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/kirankumarreddii/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/kirankumarreddii/leetcode/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/kirankumarreddii/leetcode/tree/master/0394-decode-string) |
 ## Union Find
 |  |
 | ------- |
