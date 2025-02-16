@@ -12,5 +12,5 @@ class Solution:
                 k=''
                 while stack and stack[-1].isdigit():
                     k=stack.pop()+k
-                stack.append(int(k)*stng)
+                stack.extend(int(k)*stng)
         return ''.join(stack)
