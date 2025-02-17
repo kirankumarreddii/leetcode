@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kirankumarreddii/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/kirankumarreddii/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/kirankumarreddii/leetcode/tree/master/1755-defuse-the-bomb) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kirankumarreddii/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kirankumarreddii/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/kirankumarreddii/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kirankumarreddii/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kirankumarreddii/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kirankumarreddii/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kirankumarreddii/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Function
 |  |
 | ------- |
