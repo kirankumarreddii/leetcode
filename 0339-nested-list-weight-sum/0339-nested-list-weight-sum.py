@@ -57,7 +57,6 @@ class Solution:
         #         res+=(num*count)
         # return res
 
-        stack=[]
         res=0
         for lst in nestedList:
             if lst.isInteger():
