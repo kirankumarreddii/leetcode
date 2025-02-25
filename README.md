@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/kirankumarreddii/leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/kirankumarreddii/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0875-longest-mountain-in-array](https://github.com/kirankumarreddii/leetcode/tree/master/0875-longest-mountain-in-array) |
+| [0890-lemonade-change](https://github.com/kirankumarreddii/leetcode/tree/master/0890-lemonade-change) |
 | [1014-k-closest-points-to-origin](https://github.com/kirankumarreddii/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/kirankumarreddii/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/kirankumarreddii/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0890-lemonade-change](https://github.com/kirankumarreddii/leetcode/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
