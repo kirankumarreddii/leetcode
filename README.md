@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kirankumarreddii/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kirankumarreddii/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kirankumarreddii/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0285-inorder-successor-in-bst) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/kirankumarreddii/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/kirankumarreddii/leetcode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kirankumarreddii/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0392-is-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0392-is-subsequence) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kirankumarreddii/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kirankumarreddii/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0251-flatten-2d-vector](https://github.com/kirankumarreddii/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0308-range-sum-query-2d-mutable](https://github.com/kirankumarreddii/leetcode/tree/master/0308-range-sum-query-2d-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0341-flatten-nested-list-iterator) |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/kirankumarreddii/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kirankumarreddii/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Memoization
 |  |
