@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kirankumarreddii/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kirankumarreddii/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/kirankumarreddii/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2048-build-array-from-permutation](https://github.com/kirankumarreddii/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kirankumarreddii/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/kirankumarreddii/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kirankumarreddii/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/kirankumarreddii/leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/kirankumarreddii/leetcode/tree/master/0874-backspace-string-compare) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2048-build-array-from-permutation](https://github.com/kirankumarreddii/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kirankumarreddii/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kirankumarreddii/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String Matching
