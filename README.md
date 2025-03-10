@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kirankumarreddii/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kirankumarreddii/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kirankumarreddii/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [3709-find-special-substring-of-length-k](https://github.com/kirankumarreddii/leetcode/tree/master/3709-find-special-substring-of-length-k) |
 ## Hash Function
 |  |
 | ------- |
