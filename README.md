@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/kirankumarreddii/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/kirankumarreddii/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/kirankumarreddii/leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/kirankumarreddii/leetcode/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/kirankumarreddii/leetcode/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/kirankumarreddii/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/kirankumarreddii/leetcode/tree/master/0223-rectangle-area) |
 | [0830-largest-triangle-area](https://github.com/kirankumarreddii/leetcode/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/kirankumarreddii/leetcode/tree/master/0866-rectangle-overlap) |
 | [1014-k-closest-points-to-origin](https://github.com/kirankumarreddii/leetcode/tree/master/1014-k-closest-points-to-origin) |
