@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/kirankumarreddii/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0875-longest-mountain-in-array](https://github.com/kirankumarreddii/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/kirankumarreddii/leetcode/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/kirankumarreddii/leetcode/tree/master/0978-valid-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/kirankumarreddii/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/kirankumarreddii/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/kirankumarreddii/leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/kirankumarreddii/leetcode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0777-toeplitz-matrix) |
+| [0898-transpose-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/kirankumarreddii/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/kirankumarreddii/leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/kirankumarreddii/leetcode/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2048-build-array-from-permutation](https://github.com/kirankumarreddii/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kirankumarreddii/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
