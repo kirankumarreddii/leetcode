@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kirankumarreddii/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0244-shortest-word-distance-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0251-flatten-2d-vector](https://github.com/kirankumarreddii/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/kirankumarreddii/leetcode/tree/master/0283-move-zeroes) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/kirankumarreddii/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kirankumarreddii/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0244-shortest-word-distance-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0392-is-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/kirankumarreddii/leetcode/tree/master/0394-decode-string) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/kirankumarreddii/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0229-majority-element-ii) |
+| [0244-shortest-word-distance-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/kirankumarreddii/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/kirankumarreddii/leetcode/tree/master/0348-design-tic-tac-toe) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kirankumarreddii/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0244-shortest-word-distance-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0251-flatten-2d-vector](https://github.com/kirankumarreddii/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0308-range-sum-query-2d-mutable](https://github.com/kirankumarreddii/leetcode/tree/master/0308-range-sum-query-2d-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0341-flatten-nested-list-iterator) |
@@ -631,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0161-one-edit-distance](https://github.com/kirankumarreddii/leetcode/tree/master/0161-one-edit-distance) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirankumarreddii/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0186-reverse-words-in-a-string-ii) |
+| [0244-shortest-word-distance-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0251-flatten-2d-vector](https://github.com/kirankumarreddii/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0277-find-the-celebrity](https://github.com/kirankumarreddii/leetcode/tree/master/0277-find-the-celebrity) |
