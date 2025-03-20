@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kirankumarreddii/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0244-shortest-word-distance-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0244-shortest-word-distance-ii) |
+| [0245-shortest-word-distance-iii](https://github.com/kirankumarreddii/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0251-flatten-2d-vector](https://github.com/kirankumarreddii/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/kirankumarreddii/leetcode/tree/master/0283-move-zeroes) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kirankumarreddii/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0244-shortest-word-distance-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0244-shortest-word-distance-ii) |
+| [0245-shortest-word-distance-iii](https://github.com/kirankumarreddii/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0392-is-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/kirankumarreddii/leetcode/tree/master/0394-decode-string) |
