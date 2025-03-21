@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0244-shortest-word-distance-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/kirankumarreddii/leetcode/tree/master/0245-shortest-word-distance-iii) |
+| [0247-strobogrammatic-number-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0247-strobogrammatic-number-ii) |
 | [0251-flatten-2d-vector](https://github.com/kirankumarreddii/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/kirankumarreddii/leetcode/tree/master/0283-move-zeroes) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/kirankumarreddii/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0244-shortest-word-distance-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/kirankumarreddii/leetcode/tree/master/0245-shortest-word-distance-iii) |
+| [0247-strobogrammatic-number-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0247-strobogrammatic-number-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0392-is-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/kirankumarreddii/leetcode/tree/master/0394-decode-string) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kirankumarreddii/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kirankumarreddii/leetcode/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kirankumarreddii/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0247-strobogrammatic-number-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0247-strobogrammatic-number-ii) |
 | [0394-decode-string](https://github.com/kirankumarreddii/leetcode/tree/master/0394-decode-string) |
 ## Union Find
 |  |
