@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kirankumarreddii/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kirankumarreddii/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kirankumarreddii/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3474-better-compression-of-string](https://github.com/kirankumarreddii/leetcode/tree/master/3474-better-compression-of-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/kirankumarreddii/leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kirankumarreddii/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kirankumarreddii/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [3474-better-compression-of-string](https://github.com/kirankumarreddii/leetcode/tree/master/3474-better-compression-of-string) |
 ## Matrix
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kirankumarreddii/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kirankumarreddii/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kirankumarreddii/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [3474-better-compression-of-string](https://github.com/kirankumarreddii/leetcode/tree/master/3474-better-compression-of-string) |
 | [3709-find-special-substring-of-length-k](https://github.com/kirankumarreddii/leetcode/tree/master/3709-find-special-substring-of-length-k) |
 ## Hash Function
 |  |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/kirankumarreddii/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kirankumarreddii/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/kirankumarreddii/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3474-better-compression-of-string](https://github.com/kirankumarreddii/leetcode/tree/master/3474-better-compression-of-string) |
 ## Sliding Window
 |  |
 | ------- |
