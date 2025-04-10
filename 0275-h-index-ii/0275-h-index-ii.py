@@ -1,15 +1,14 @@
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
         n=len(citations)
-        bucket=[0]*(n+1)
-        for i in citations:
-            if i>=n:
-                bucket[n]+=1
+        left=0
+        right=n-1
+        while left<=right:
+            mid=(left+right)//2
+            if citations[mid]==n-mid:
+                return n-mid
+            elif citations[mid]<n-mid:
+                left=mid+1
             else:
-                bucket[i]+=1
-        total=0
-        for i in range(n,-1,-1):
-            total+=bucket[i]
-            if total>=i:
-                return i
-        return n
+                right=mid-1
+        return n-left
