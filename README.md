@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kirankumarreddii/leetcode/tree/master/0260-single-number-iii) |
 | [0271-encode-and-decode-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0274-h-index](https://github.com/kirankumarreddii/leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/kirankumarreddii/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kirankumarreddii/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/kirankumarreddii/leetcode/tree/master/0289-game-of-life) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0259-3sum-smaller](https://github.com/kirankumarreddii/leetcode/tree/master/0259-3sum-smaller) |
+| [0275-h-index-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0275-h-index-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0287-find-the-duplicate-number](https://github.com/kirankumarreddii/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0300-longest-increasing-subsequence) |
