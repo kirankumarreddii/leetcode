@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/kirankumarreddii/leetcode/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/kirankumarreddii/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1137-height-checker](https://github.com/kirankumarreddii/leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kirankumarreddii/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kirankumarreddii/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-positions-of-large-groups](https://github.com/kirankumarreddii/leetcode/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/kirankumarreddii/leetcode/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0889-buddy-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/kirankumarreddii/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kirankumarreddii/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kirankumarreddii/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kirankumarreddii/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/kirankumarreddii/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/kirankumarreddii/leetcode/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0889-buddy-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/kirankumarreddii/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/kirankumarreddii/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1391-counting-elements](https://github.com/kirankumarreddii/leetcode/tree/master/1391-counting-elements) |
