@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0274-h-index](https://github.com/kirankumarreddii/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0275-h-index-ii) |
+| [0280-wiggle-sort](https://github.com/kirankumarreddii/leetcode/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/kirankumarreddii/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kirankumarreddii/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/kirankumarreddii/leetcode/tree/master/0289-game-of-life) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/kirankumarreddii/leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/kirankumarreddii/leetcode/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0280-wiggle-sort](https://github.com/kirankumarreddii/leetcode/tree/master/0280-wiggle-sort) |
 | [0324-wiggle-sort-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/kirankumarreddii/leetcode/tree/master/0259-3sum-smaller) |
 | [0274-h-index](https://github.com/kirankumarreddii/leetcode/tree/master/0274-h-index) |
+| [0280-wiggle-sort](https://github.com/kirankumarreddii/leetcode/tree/master/0280-wiggle-sort) |
 | [0324-wiggle-sort-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kirankumarreddii/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
