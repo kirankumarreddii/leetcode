@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/kirankumarreddii/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0275-h-index-ii) |
 | [0280-wiggle-sort](https://github.com/kirankumarreddii/leetcode/tree/master/0280-wiggle-sort) |
+| [0281-zigzag-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0281-zigzag-iterator) |
 | [0283-move-zeroes](https://github.com/kirankumarreddii/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kirankumarreddii/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/kirankumarreddii/leetcode/tree/master/0289-game-of-life) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0251-flatten-2d-vector](https://github.com/kirankumarreddii/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0271-encode-and-decode-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0271-encode-and-decode-strings) |
+| [0281-zigzag-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0281-zigzag-iterator) |
 | [0308-range-sum-query-2d-mutable](https://github.com/kirankumarreddii/leetcode/tree/master/0308-range-sum-query-2d-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0348-design-tic-tac-toe](https://github.com/kirankumarreddii/leetcode/tree/master/0348-design-tic-tac-toe) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0251-flatten-2d-vector](https://github.com/kirankumarreddii/leetcode/tree/master/0251-flatten-2d-vector) |
+| [0281-zigzag-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0281-zigzag-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0604-design-compressed-string-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0604-design-compressed-string-iterator) |
 ## Breadth-First Search
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0281-zigzag-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0281-zigzag-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kirankumarreddii/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
