@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0280-wiggle-sort](https://github.com/kirankumarreddii/leetcode/tree/master/0280-wiggle-sort) |
 | [0281-zigzag-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0281-zigzag-iterator) |
 | [0283-move-zeroes](https://github.com/kirankumarreddii/leetcode/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/kirankumarreddii/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/kirankumarreddii/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0251-flatten-2d-vector](https://github.com/kirankumarreddii/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0271-encode-and-decode-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0281-zigzag-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0281-zigzag-iterator) |
+| [0284-peeking-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0284-peeking-iterator) |
 | [0308-range-sum-query-2d-mutable](https://github.com/kirankumarreddii/leetcode/tree/master/0308-range-sum-query-2d-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0348-design-tic-tac-toe](https://github.com/kirankumarreddii/leetcode/tree/master/0348-design-tic-tac-toe) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0251-flatten-2d-vector](https://github.com/kirankumarreddii/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0281-zigzag-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0281-zigzag-iterator) |
+| [0284-peeking-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0604-design-compressed-string-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0604-design-compressed-string-iterator) |
 ## Breadth-First Search
