@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/kirankumarreddii/leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/kirankumarreddii/leetcode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0924-fair-candy-swap](https://github.com/kirankumarreddii/leetcode/tree/master/0924-fair-candy-swap) |
 | [0978-valid-mountain-array](https://github.com/kirankumarreddii/leetcode/tree/master/0978-valid-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/kirankumarreddii/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/kirankumarreddii/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/kirankumarreddii/leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kirankumarreddii/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0924-fair-candy-swap](https://github.com/kirankumarreddii/leetcode/tree/master/0924-fair-candy-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/kirankumarreddii/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/kirankumarreddii/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/kirankumarreddii/leetcode/tree/master/1137-height-checker) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/kirankumarreddii/leetcode/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kirankumarreddii/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0924-fair-candy-swap](https://github.com/kirankumarreddii/leetcode/tree/master/0924-fair-candy-swap) |
 | [1256-rank-transform-of-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/kirankumarreddii/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1391-counting-elements](https://github.com/kirankumarreddii/leetcode/tree/master/1391-counting-elements) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/kirankumarreddii/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/kirankumarreddii/leetcode/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kirankumarreddii/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0924-fair-candy-swap](https://github.com/kirankumarreddii/leetcode/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/kirankumarreddii/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
