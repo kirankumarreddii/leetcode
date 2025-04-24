@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/kirankumarreddii/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/0384-shuffle-an-array) |
 | [0454-4sum-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/kirankumarreddii/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/kirankumarreddii/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0454-4sum-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/kirankumarreddii/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kirankumarreddii/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/kirankumarreddii/leetcode/tree/master/0645-set-mismatch) |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kirankumarreddii/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kirankumarreddii/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/kirankumarreddii/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kirankumarreddii/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/kirankumarreddii/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kirankumarreddii/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
