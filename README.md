@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kirankumarreddii/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kirankumarreddii/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/kirankumarreddii/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1656-count-good-triplets](https://github.com/kirankumarreddii/leetcode/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/kirankumarreddii/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kirankumarreddii/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kirankumarreddii/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kirankumarreddii/leetcode/tree/master/0204-count-primes) |
 | [0818-similar-rgb-color](https://github.com/kirankumarreddii/leetcode/tree/master/0818-similar-rgb-color) |
 | [0875-longest-mountain-in-array](https://github.com/kirankumarreddii/leetcode/tree/master/0875-longest-mountain-in-array) |
+| [1656-count-good-triplets](https://github.com/kirankumarreddii/leetcode/tree/master/1656-count-good-triplets) |
 ## Geometry
 |  |
 | ------- |
