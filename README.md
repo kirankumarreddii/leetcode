@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/kirankumarreddii/leetcode/tree/master/0274-h-index) |
+| [0299-bulls-and-cows](https://github.com/kirankumarreddii/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/kirankumarreddii/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/kirankumarreddii/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0290-word-pattern](https://github.com/kirankumarreddii/leetcode/tree/master/0290-word-pattern) |
 | [0291-word-pattern-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0291-word-pattern-ii) |
+| [0299-bulls-and-cows](https://github.com/kirankumarreddii/leetcode/tree/master/0299-bulls-and-cows) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0392-is-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/kirankumarreddii/leetcode/tree/master/0394-decode-string) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0267-palindrome-permutation-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0267-palindrome-permutation-ii) |
 | [0290-word-pattern](https://github.com/kirankumarreddii/leetcode/tree/master/0290-word-pattern) |
 | [0291-word-pattern-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0291-word-pattern-ii) |
+| [0299-bulls-and-cows](https://github.com/kirankumarreddii/leetcode/tree/master/0299-bulls-and-cows) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/kirankumarreddii/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/kirankumarreddii/leetcode/tree/master/0348-design-tic-tac-toe) |
