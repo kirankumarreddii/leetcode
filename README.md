@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/kirankumarreddii/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/kirankumarreddii/leetcode/tree/master/0279-perfect-squares) |
+| [0294-flip-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0294-flip-game-ii) |
 | [0371-sum-of-two-integers](https://github.com/kirankumarreddii/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kirankumarreddii/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/0384-shuffle-an-array) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0264-ugly-number-ii) |
 | [0276-paint-fence](https://github.com/kirankumarreddii/leetcode/tree/master/0276-paint-fence) |
 | [0279-perfect-squares](https://github.com/kirankumarreddii/leetcode/tree/master/0279-perfect-squares) |
+| [0294-flip-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0294-flip-game-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kirankumarreddii/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0392-is-subsequence) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0254-factor-combinations](https://github.com/kirankumarreddii/leetcode/tree/master/0254-factor-combinations) |
 | [0267-palindrome-permutation-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0267-palindrome-permutation-ii) |
 | [0291-word-pattern-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0291-word-pattern-ii) |
+| [0294-flip-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0294-flip-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -961,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/kirankumarreddii/leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kirankumarreddii/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0294-flip-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0294-flip-game-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1019,4 +1023,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0294-flip-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0294-flip-game-ii) |
 <!---LeetCode Topics End-->
