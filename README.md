@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0250-count-univalue-subtrees](https://github.com/kirankumarreddii/leetcode/tree/master/0250-count-univalue-subtrees) |
 | [0261-graph-valid-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0261-graph-valid-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0285-inorder-successor-in-bst) |
+| [0310-minimum-height-trees](https://github.com/kirankumarreddii/leetcode/tree/master/0310-minimum-height-trees) |
 | [0339-nested-list-weight-sum](https://github.com/kirankumarreddii/leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0341-flatten-nested-list-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0386-lexicographical-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0386-lexicographical-numbers) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0261-graph-valid-tree) |
 | [0279-perfect-squares](https://github.com/kirankumarreddii/leetcode/tree/master/0279-perfect-squares) |
 | [0286-walls-and-gates](https://github.com/kirankumarreddii/leetcode/tree/master/0286-walls-and-gates) |
+| [0310-minimum-height-trees](https://github.com/kirankumarreddii/leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/kirankumarreddii/leetcode/tree/master/0322-coin-change) |
 | [0339-nested-list-weight-sum](https://github.com/kirankumarreddii/leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0617-merge-two-binary-trees](https://github.com/kirankumarreddii/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0261-graph-valid-tree) |
 | [0277-find-the-celebrity](https://github.com/kirankumarreddii/leetcode/tree/master/0277-find-the-celebrity) |
+| [0310-minimum-height-trees](https://github.com/kirankumarreddii/leetcode/tree/master/0310-minimum-height-trees) |
 ## Trie
 |  |
 | ------- |
@@ -1001,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/kirankumarreddii/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/kirankumarreddii/leetcode/tree/master/0310-minimum-height-trees) |
 ## Quickselect
 |  |
 | ------- |
