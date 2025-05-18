@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0284-peeking-iterator) |
 | [0286-walls-and-gates](https://github.com/kirankumarreddii/leetcode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/kirankumarreddii/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0288-unique-word-abbreviation](https://github.com/kirankumarreddii/leetcode/tree/master/0288-unique-word-abbreviation) |
 | [0289-game-of-life](https://github.com/kirankumarreddii/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankumarreddii/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0247-strobogrammatic-number-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0247-strobogrammatic-number-ii) |
 | [0267-palindrome-permutation-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0267-palindrome-permutation-ii) |
 | [0271-encode-and-decode-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0271-encode-and-decode-strings) |
+| [0288-unique-word-abbreviation](https://github.com/kirankumarreddii/leetcode/tree/master/0288-unique-word-abbreviation) |
 | [0290-word-pattern](https://github.com/kirankumarreddii/leetcode/tree/master/0290-word-pattern) |
 | [0291-word-pattern-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0291-word-pattern-ii) |
 | [0299-bulls-and-cows](https://github.com/kirankumarreddii/leetcode/tree/master/0299-bulls-and-cows) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0264-ugly-number-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0264-ugly-number-ii) |
 | [0267-palindrome-permutation-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0267-palindrome-permutation-ii) |
+| [0288-unique-word-abbreviation](https://github.com/kirankumarreddii/leetcode/tree/master/0288-unique-word-abbreviation) |
 | [0290-word-pattern](https://github.com/kirankumarreddii/leetcode/tree/master/0290-word-pattern) |
 | [0291-word-pattern-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0291-word-pattern-ii) |
 | [0299-bulls-and-cows](https://github.com/kirankumarreddii/leetcode/tree/master/0299-bulls-and-cows) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/kirankumarreddii/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0281-zigzag-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0281-zigzag-iterator) |
 | [0284-peeking-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0284-peeking-iterator) |
+| [0288-unique-word-abbreviation](https://github.com/kirankumarreddii/leetcode/tree/master/0288-unique-word-abbreviation) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankumarreddii/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/kirankumarreddii/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0308-range-sum-query-2d-mutable](https://github.com/kirankumarreddii/leetcode/tree/master/0308-range-sum-query-2d-mutable) |
