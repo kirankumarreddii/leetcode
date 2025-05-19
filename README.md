@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/kirankumarreddii/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0308-range-sum-query-2d-mutable](https://github.com/kirankumarreddii/leetcode/tree/master/0308-range-sum-query-2d-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kirankumarreddii/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0311-sparse-matrix-multiplication](https://github.com/kirankumarreddii/leetcode/tree/master/0311-sparse-matrix-multiplication) |
 | [0322-coin-change](https://github.com/kirankumarreddii/leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/kirankumarreddii/leetcode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankumarreddii/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0308-range-sum-query-2d-mutable](https://github.com/kirankumarreddii/leetcode/tree/master/0308-range-sum-query-2d-mutable) |
+| [0311-sparse-matrix-multiplication](https://github.com/kirankumarreddii/leetcode/tree/master/0311-sparse-matrix-multiplication) |
 | [0348-design-tic-tac-toe](https://github.com/kirankumarreddii/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kirankumarreddii/leetcode/tree/master/0290-word-pattern) |
 | [0291-word-pattern-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0291-word-pattern-ii) |
 | [0299-bulls-and-cows](https://github.com/kirankumarreddii/leetcode/tree/master/0299-bulls-and-cows) |
+| [0311-sparse-matrix-multiplication](https://github.com/kirankumarreddii/leetcode/tree/master/0311-sparse-matrix-multiplication) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/kirankumarreddii/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/kirankumarreddii/leetcode/tree/master/0348-design-tic-tac-toe) |
