@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0308-range-sum-query-2d-mutable](https://github.com/kirankumarreddii/leetcode/tree/master/0308-range-sum-query-2d-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kirankumarreddii/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0311-sparse-matrix-multiplication](https://github.com/kirankumarreddii/leetcode/tree/master/0311-sparse-matrix-multiplication) |
+| [0313-super-ugly-number](https://github.com/kirankumarreddii/leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/kirankumarreddii/leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/kirankumarreddii/leetcode/tree/master/0279-perfect-squares) |
 | [0294-flip-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0294-flip-game-ii) |
+| [0313-super-ugly-number](https://github.com/kirankumarreddii/leetcode/tree/master/0313-super-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/kirankumarreddii/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kirankumarreddii/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/0384-shuffle-an-array) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0294-flip-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0294-flip-game-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kirankumarreddii/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0313-super-ugly-number](https://github.com/kirankumarreddii/leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/kirankumarreddii/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/kirankumarreddii/leetcode/tree/master/0747-min-cost-climbing-stairs) |
