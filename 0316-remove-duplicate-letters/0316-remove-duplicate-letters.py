@@ -9,7 +9,7 @@ class Solution:
             freq[char] -= 1
             if char not in occur:
                
-                while stack and ord(char)<ord(stack[-1]) and freq[stack[-1]]>0:
+                while stack and ord(char)<=ord(stack[-1]) and freq[stack[-1]]>0:
                     p=stack.pop()
                     occur.remove(p)
                 stack.append(char)
