@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/kirankumarreddii/leetcode/tree/master/0279-perfect-squares) |
 | [0294-flip-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0294-flip-game-ii) |
 | [0313-super-ugly-number](https://github.com/kirankumarreddii/leetcode/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/kirankumarreddii/leetcode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/kirankumarreddii/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kirankumarreddii/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/0384-shuffle-an-array) |
@@ -1066,4 +1067,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0294-flip-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0294-flip-game-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/kirankumarreddii/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
