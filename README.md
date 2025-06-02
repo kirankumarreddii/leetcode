@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/kirankumarreddii/leetcode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/kirankumarreddii/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kirankumarreddii/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0320-generalized-abbreviation](https://github.com/kirankumarreddii/leetcode/tree/master/0320-generalized-abbreviation) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0392-is-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/kirankumarreddii/leetcode/tree/master/0394-decode-string) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kirankumarreddii/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/kirankumarreddii/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kirankumarreddii/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0320-generalized-abbreviation](https://github.com/kirankumarreddii/leetcode/tree/master/0320-generalized-abbreviation) |
 | [0371-sum-of-two-integers](https://github.com/kirankumarreddii/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/kirankumarreddii/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kirankumarreddii/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0291-word-pattern-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0291-word-pattern-ii) |
 | [0294-flip-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0294-flip-game-ii) |
 | [0306-additive-number](https://github.com/kirankumarreddii/leetcode/tree/master/0306-additive-number) |
+| [0320-generalized-abbreviation](https://github.com/kirankumarreddii/leetcode/tree/master/0320-generalized-abbreviation) |
 ## Recursion
 |  |
 | ------- |
