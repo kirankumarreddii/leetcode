@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/kirankumarreddii/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/kirankumarreddii/leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/kirankumarreddii/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0334-increasing-triplet-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/kirankumarreddii/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/kirankumarreddii/leetcode/tree/master/0348-design-tic-tac-toe) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/kirankumarreddii/leetcode/tree/master/0299-bulls-and-cows) |
 | [0311-sparse-matrix-multiplication](https://github.com/kirankumarreddii/leetcode/tree/master/0311-sparse-matrix-multiplication) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kirankumarreddii/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/kirankumarreddii/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kirankumarreddii/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/kirankumarreddii/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/kirankumarreddii/leetcode/tree/master/0348-design-tic-tac-toe) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kirankumarreddii/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kirankumarreddii/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/kirankumarreddii/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/kirankumarreddii/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kirankumarreddii/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/kirankumarreddii/leetcode/tree/master/1046-max-consecutive-ones-iii) |
