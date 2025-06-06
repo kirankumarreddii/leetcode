@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0285-inorder-successor-in-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kirankumarreddii/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0333-largest-bst-subtree](https://github.com/kirankumarreddii/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0341-flatten-nested-list-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0563-binary-tree-tilt](https://github.com/kirankumarreddii/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/kirankumarreddii/leetcode/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kirankumarreddii/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kirankumarreddii/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0333-largest-bst-subtree](https://github.com/kirankumarreddii/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0339-nested-list-weight-sum](https://github.com/kirankumarreddii/leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0341-flatten-nested-list-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0386-lexicographical-numbers](https://github.com/kirankumarreddii/leetcode/tree/master/0386-lexicographical-numbers) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0285-inorder-successor-in-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kirankumarreddii/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0333-largest-bst-subtree](https://github.com/kirankumarreddii/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0563-binary-tree-tilt](https://github.com/kirankumarreddii/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kirankumarreddii/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0285-inorder-successor-in-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0287-find-the-duplicate-number](https://github.com/kirankumarreddii/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0333-largest-bst-subtree](https://github.com/kirankumarreddii/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kirankumarreddii/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kirankumarreddii/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kirankumarreddii/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -899,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kirankumarreddii/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/kirankumarreddii/leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/kirankumarreddii/leetcode/tree/master/0322-coin-change) |
+| [0333-largest-bst-subtree](https://github.com/kirankumarreddii/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0392-is-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/kirankumarreddii/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/kirankumarreddii/leetcode/tree/master/0875-longest-mountain-in-array) |
