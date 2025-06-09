@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0294-flip-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0294-flip-game-ii) |
 | [0313-super-ugly-number](https://github.com/kirankumarreddii/leetcode/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/kirankumarreddii/leetcode/tree/master/0319-bulb-switcher) |
+| [0343-integer-break](https://github.com/kirankumarreddii/leetcode/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/kirankumarreddii/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kirankumarreddii/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/0384-shuffle-an-array) |
@@ -904,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/kirankumarreddii/leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/kirankumarreddii/leetcode/tree/master/0322-coin-change) |
 | [0333-largest-bst-subtree](https://github.com/kirankumarreddii/leetcode/tree/master/0333-largest-bst-subtree) |
+| [0343-integer-break](https://github.com/kirankumarreddii/leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/kirankumarreddii/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/kirankumarreddii/leetcode/tree/master/0875-longest-mountain-in-array) |
