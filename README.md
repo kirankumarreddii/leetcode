@@ -730,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kirankumarreddii/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kirankumarreddii/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0320-generalized-abbreviation](https://github.com/kirankumarreddii/leetcode/tree/master/0320-generalized-abbreviation) |
+| [0351-android-unlock-patterns](https://github.com/kirankumarreddii/leetcode/tree/master/0351-android-unlock-patterns) |
 | [0371-sum-of-two-integers](https://github.com/kirankumarreddii/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/kirankumarreddii/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kirankumarreddii/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0333-largest-bst-subtree](https://github.com/kirankumarreddii/leetcode/tree/master/0333-largest-bst-subtree) |
 | [0337-house-robber-iii](https://github.com/kirankumarreddii/leetcode/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/kirankumarreddii/leetcode/tree/master/0343-integer-break) |
+| [0351-android-unlock-patterns](https://github.com/kirankumarreddii/leetcode/tree/master/0351-android-unlock-patterns) |
 | [0392-is-subsequence](https://github.com/kirankumarreddii/leetcode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/kirankumarreddii/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/kirankumarreddii/leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0294-flip-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0294-flip-game-ii) |
 | [0306-additive-number](https://github.com/kirankumarreddii/leetcode/tree/master/0306-additive-number) |
 | [0320-generalized-abbreviation](https://github.com/kirankumarreddii/leetcode/tree/master/0320-generalized-abbreviation) |
+| [0351-android-unlock-patterns](https://github.com/kirankumarreddii/leetcode/tree/master/0351-android-unlock-patterns) |
 ## Recursion
 |  |
 | ------- |
@@ -1102,4 +1105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/kirankumarreddii/leetcode/tree/master/0319-bulb-switcher) |
+## Bitmask
+|  |
+| ------- |
+| [0351-android-unlock-patterns](https://github.com/kirankumarreddii/leetcode/tree/master/0351-android-unlock-patterns) |
 <!---LeetCode Topics End-->
