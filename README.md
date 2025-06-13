@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kirankumarreddii/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kirankumarreddii/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kirankumarreddii/leetcode/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/kirankumarreddii/leetcode/tree/master/0259-3sum-smaller) |
 | [0274-h-index](https://github.com/kirankumarreddii/leetcode/tree/master/0274-h-index) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/kirankumarreddii/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kirankumarreddii/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/kirankumarreddii/leetcode/tree/master/0242-valid-anagram) |
 | [0244-shortest-word-distance-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/kirankumarreddii/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0247-strobogrammatic-number-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0247-strobogrammatic-number-ii) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/kirankumarreddii/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kirankumarreddii/leetcode/tree/master/0242-valid-anagram) |
 | [0244-shortest-word-distance-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0264-ugly-number-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0264-ugly-number-ii) |
 | [0267-palindrome-permutation-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0267-palindrome-permutation-ii) |
