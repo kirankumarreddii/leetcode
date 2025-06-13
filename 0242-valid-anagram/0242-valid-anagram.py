@@ -1,6 +1,6 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        return counter(s)==counter(t)
+        return Counter(s)==Counter(t)
     def isAnagram(self, s: str, t: str) -> bool:
         ss=''.join(sorted(s))
         tt=''.join(sorted(t))
