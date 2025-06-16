@@ -12,9 +12,7 @@ class Solution:
         #         heapq.heappop(min_heap)
         # return [num for _,num in min_heap]
 
-        freq = Counter(nums)
-        heap = [(count, num) for num, count in freq.items()]
-        heapq.heapify(heap)  # turns list into a min-heap
-
-    # Now pop the largest k elements
-        return [num for count, num in heapq.nlargest(k, heap)]
+        freq=Counter(nums)
+        heap=[(count,num) for num, count in freq.items()]
+        heapq.heapify(heap)
+        return [num for count,num in heapq.nlargest(k,heap)]
