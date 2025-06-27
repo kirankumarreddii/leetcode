@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/kirankumarreddii/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/kirankumarreddii/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/kirankumarreddii/leetcode/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/kirankumarreddii/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/kirankumarreddii/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kirankumarreddii/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kirankumarreddii/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/kirankumarreddii/leetcode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/kirankumarreddii/leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/kirankumarreddii/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kirankumarreddii/leetcode/tree/master/0148-sort-list) |
