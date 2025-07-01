@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kirankumarreddii/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/kirankumarreddii/leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kirankumarreddii/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/kirankumarreddii/leetcode/tree/master/0143-reorder-list) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kirankumarreddii/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/kirankumarreddii/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/kirankumarreddii/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kirankumarreddii/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0047-permutations-ii) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kirankumarreddii/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kirankumarreddii/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/kirankumarreddii/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kirankumarreddii/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kirankumarreddii/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kirankumarreddii/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kirankumarreddii/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kirankumarreddii/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kirankumarreddii/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kirankumarreddii/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kirankumarreddii/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kirankumarreddii/leetcode/tree/master/0062-unique-paths) |
@@ -1105,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kirankumarreddii/leetcode/tree/master/0042-trapping-rain-water) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0316-remove-duplicate-letters](https://github.com/kirankumarreddii/leetcode/tree/master/0316-remove-duplicate-letters) |
 ## Game Theory
