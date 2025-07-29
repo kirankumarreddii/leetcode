@@ -5,7 +5,6 @@ class Solution:
         right=1
         while(right<len(prices)):
             if prices[left] < prices[right]:
-                
                 max_p=max(prices[right] - prices[left],max_p)
             else:
                 left=right
