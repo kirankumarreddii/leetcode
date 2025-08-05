@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/kirankumarreddii/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/kirankumarreddii/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/kirankumarreddii/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/kirankumarreddii/leetcode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/kirankumarreddii/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kirankumarreddii/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/kirankumarreddii/leetcode/tree/master/0874-backspace-string-compare) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/kirankumarreddii/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/kirankumarreddii/leetcode/tree/master/0733-flood-fill) |
 | [0734-sentence-similarity](https://github.com/kirankumarreddii/leetcode/tree/master/0734-sentence-similarity) |
+| [0739-daily-temperatures](https://github.com/kirankumarreddii/leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kirankumarreddii/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/kirankumarreddii/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kirankumarreddii/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -1120,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kirankumarreddii/leetcode/tree/master/0042-trapping-rain-water) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/kirankumarreddii/leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0316-remove-duplicate-letters](https://github.com/kirankumarreddii/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/kirankumarreddii/leetcode/tree/master/0739-daily-temperatures) |
 ## Game Theory
 |  |
 | ------- |
